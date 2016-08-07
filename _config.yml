@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7816694
+  lightness: 0.006137897
+  brandStrength: 0.1318404
+  brandColors:
+    - '#3366C1'
+    - '#ADD1F1'
+    - '#22334F'
+    - '#BBA283'
+    - '#FEEFDA'
+  rhythmicContrast: 0.5903518
+typography_spectrum: 0.2007169
+name: Schliersee
